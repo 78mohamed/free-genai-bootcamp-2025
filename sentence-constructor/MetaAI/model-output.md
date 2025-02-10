@@ -114,7 +114,7 @@ You're very close to a perfect translation! Keep it up!
 - The model did well going from one state to another and trying to help the student.
 
 ### Areas for Improvement:
-- The model caould show the words on the provided table
+- The model could not show the words on the provided table
 
 **Score Explanation:**
 
